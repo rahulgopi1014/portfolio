@@ -21,7 +21,7 @@ const milestones = [
     },
     {
         id: 2,
-        date: 'MAR, 2017',
+        date: 'MAR, 2021',
         title: 'Completed 12th',
         description: `Completed in March 2021 with 84% overall. 
         Achieved A+ in Hindi and A grades in core science subjects. `
